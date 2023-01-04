@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d70a2ad-d32d-4bfe-916b-35331e61e928" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Unit1/Pathway3/BirthdayCard/app/src/main/res/drawable-nodpi/androidparty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Howlstagram/app/src/main/res/drawable/btn_signin_facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Howlstagram/app/src/main/res/drawable/btn_signin_google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Howlstagram/app/src/main/res/drawable/btn_signin_twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Howlstagram/app/src/main/res/drawable/ic_account.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Howlstagram/app/src/main/res/drawable/ic_add_a_photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Howlstagram/app/src/main/res/drawable/ic_arrow_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Howlstagram/app/src/main/res/drawable/ic_chat_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Howlstagram/app/src/main/res/drawable/ic_favorite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Howlstagram/app/src/main/res/drawable/ic_favorite_border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Howlstagram/app/src/main/res/drawable/ic_home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Howlstagram/app/src/main/res/drawable/ic_outline_local_play_24px.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Howlstagram/app/src/main/res/drawable/ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Howlstagram/app/src/main/res/drawable/lens.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Howlstagram/app/src/main/res/drawable/logo_title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Howlstagram/app/src/main/res/drawable/push_icon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit1/Pathway3/BirthdayCard/app/src/main/java/com/example/happybirthday/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit1/Pathway3/BirthdayCard/app/src/main/java/com/example/happybirthday/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit1/Pathway3/ComposeArticle/app/src/main/java/com/example/composearticle/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit1/Pathway3/ComposeArticle/app/src/main/java/com/example/composearticle/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit1/Pathway3/ComposeQuadrant/app/src/main/java/com/example/composequadrant/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit1/Pathway3/ComposeQuadrant/app/src/main/java/com/example/composequadrant/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit1/Pathway3/TaskCompleted/app/src/main/java/com/example/taskcompleted/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit1/Pathway3/TaskCompleted/app/src/main/java/com/example/taskcompleted/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2JZuD9VHcvvmG6lMx5UKkjbSL0z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lemonade" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d70a2ad-d32d-4bfe-916b-35331e61e928" name="Changes" comment="" />
+      <created>1672297806463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672297806463</updated>
+    </task>
+    <servers />
+  </component>
+</project>
